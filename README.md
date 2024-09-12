@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Ryan Ermovick and I am currently pursing a BS in Data Science from the School of Data Science at the University of Virginia!
+
 <!--
 **RyanErm/RyanErm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
